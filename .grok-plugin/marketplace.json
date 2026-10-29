@@ -473,6 +473,27 @@
         "email": "support@videogen.io",
         "url": "https://github.com/video-gen"
       }
+    },
+    {
+      "name": "ticktick",
+      "description": "Manage TickTick tasks, lists, habits, focus records, subscribed calendar events, and countdowns through the official hosted TickTick MCP server. Community-maintained Grok Build integration with browser OAuth sign-in.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/xiaomcSBJ/ticktick-grok-plugin.git",
+        "sha": "bd455310ca4e16efb803d1cef29e141f729f0249"
+      },
+      "homepage": "https://github.com/xiaomcSBJ/ticktick-grok-plugin",
+      "keywords": [
+        "ticktick",
+        "ticktick mcp",
+        "ticktick tasks"
+      ],
+      "domains": [
+        "ticktick.com",
+        "help.ticktick.com",
+        "mcp.ticktick.com"
+      ]
     }
   ]
 }

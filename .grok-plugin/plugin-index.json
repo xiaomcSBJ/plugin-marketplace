@@ -1346,6 +1346,24 @@
         ]
       }
     },
+    "ticktick": {
+      "sha": "bd455310ca4e16efb803d1cef29e141f729f0249",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "ticktick",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "ticktick",
+            "description": "Read and manage TickTick tasks, lists, habits, and focus records, and query subscribed calendar events and countdowns t…"
+          }
+        ]
+      }
+    },
     "tinyfish": {
       "sha": "dca9193afeb4185da3caac9324fa33be17d0deac",
       "version": "1.1.1",
